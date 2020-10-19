@@ -1,0 +1,10 @@
+/text1.txt
+/*.cmd
+/media
+
+#log files
+log/a.log
+log/b.log
+log/c.log
+
+cached/*
